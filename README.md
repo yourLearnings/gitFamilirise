@@ -23,3 +23,9 @@ First clone the repository to local
       git pull origin master
       
       
+# Local changes to git 
+
+            git commit -m "Your MEssage"
+      
+      git push origin master
+      git commit -a 
