@@ -27,5 +27,5 @@ First clone the repository to local
 
             git commit -m "Your MEssage"
       
-      git push origin master
+      git push origin master  ( git status use this command to check the status and pull before executing push command)
       git commit -a 
