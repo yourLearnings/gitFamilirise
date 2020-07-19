@@ -6,7 +6,7 @@ Reference :
 https://www.notion.so/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7
 
 
-# Existing git repository 
+# Existing Git Repository 
 
 First clone the repository to local 
 
@@ -17,5 +17,9 @@ First clone the repository to local
       git commit -m "Your MEssage"
       
       git push origin master
+      
+# Pull changes from Git Repository     
+
+      git pull origin master
       
       
